@@ -1,0 +1,21 @@
+body{
+	margin:0;
+}
+
+#mainnav{
+	background-color:blue;
+	padding-top:5px;
+	padding-left:5px;
+}
+
+#sidenav{
+	background-color:red;
+	float:left;
+	width:15%;
+}
+
+#maincontent{
+	background-color:yellow;
+	width:85%;
+	margin-left:15%;
+}
