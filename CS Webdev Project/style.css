@@ -3,25 +3,34 @@ body{
 }
 
 #mainnav{
-	background-color:blue;
+	background-color:orange;
 	padding-top:5px;
 	padding-left:5px;
 }
 
 #sidenav{
 	background-color:red;
+	font-size:130%;
 	float:left;
-	width:15%;
+	width:25%;
 }
 
 #maincontent{
-	background-color:yellow;
-	width:85%;
-	margin-left:15%;
+	background-color:green;
+	width:50%;
+	margin-left:25%;
+	margin-right:255:
 }
 
 #feed{
 	float:right;
-	width:15%;
-	background-color:Grey;
+	width:25%;
+	background-color:#00FF33;
+}
+.text{
+	width:100%;
+	color:white;
+}
+.pictext{
+	
 }
