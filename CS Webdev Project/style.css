@@ -1,11 +1,20 @@
+html{
+	background-image:url("KidsFirst_Theme.bmp");
+	background-repeat:repeat-x;
+	background-color:#3d7a50;
+}
+
 body{
 	margin:0;
 }
 
 #mainnav{
-	background-color:orange;
-	padding-top:5px;
+	background-color:#ff9900;
+	background-image:url("KidsFirst_Theme.bmp");
+	background-repeat:repeat-x;
+	font-size:510%;
 	padding-left:5px;
+	margin-bottom:64px;
 }
 
 #sidenav{
@@ -16,10 +25,9 @@ body{
 }
 
 #maincontent{
-	background-color:green;
 	width:50%;
 	margin-left:25%;
-	margin-right:255:
+	margin-right:25%;
 }
 
 #feed{
