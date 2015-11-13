@@ -4,16 +4,8 @@ html{
 	background-color:#3d7a50;
 }
 
-body{
-	margin:0;
-}
-
 #mainnav{
-	background-color:#ff9900;
-	background-image:url("KidsFirst_Theme.bmp");
-	background-repeat:repeat-x;
 	font-size:510%;
-	padding-left:5px;
 	margin-bottom:64px;
 }
 
@@ -25,9 +17,13 @@ body{
 }
 
 #maincontent{
-	width:50%;
+	width:48%;
+	background-image:url("KidsFirstPattern.bmp");
+	background-repeat:repeat-y;
 	margin-left:25%;
 	margin-right:25%;
+	padding-left:4px;
+	padding-right:4px;
 }
 
 #feed{
