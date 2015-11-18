@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 
 <head>
@@ -9,7 +9,8 @@
 
 <body>
 	<?php
-		include 'header.html';
+		$folders = 0;
+		include 'header.php';
 		include 'mediafeed.php';
 	?>
 	
