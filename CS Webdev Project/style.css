@@ -1,5 +1,5 @@
 html{
-	background-image:url("KidsFirst_Theme.bmp");
+	background-image:url("Assets/KidsFirst_Theme.bmp");
 	background-repeat:repeat-x;
 	background-color:#3d7a50;
 }
@@ -18,7 +18,7 @@ html{
 
 #maincontent{
 	width:48%;
-	background-image:url("KidsFirstPattern.bmp");
+	background-image:url("Assets/KidsFirstPattern.bmp");
 	background-repeat:repeat-y;
 	margin-left:25%;
 	margin-right:25%;

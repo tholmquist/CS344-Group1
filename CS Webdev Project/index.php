@@ -8,13 +8,10 @@
 </head>
 
 <body>
-	<div id="mainnav">
-			<a href="index.html"><img src="Home_Icon.bmp" alt="Home" title="Home"></a>
-			<a href="index.html"><img src="Kids_Icon.bmp" alt="Kids" title="Kids"></a>
-			<a href="index.html"><img src="College_Bound_Icon.bmp" alt="College-bound" title="College-bound"></a>
-			<a href="index.html"><img src="Alums_Icon.bmp" alt="Alumni" title="Alumni"></a>
-			Kids  First!
-	</div>
+	<?php
+		include 'header.html';
+	?>
+	
 	<div id="sidenav">
 		Side Navigational Content
 		<br>
