@@ -10,6 +10,7 @@
 <body>
 	<?php
 		include 'header.html';
+		include 'mediafeed.php';
 	?>
 	
 	<div id="sidenav">
@@ -19,9 +20,6 @@
 		<br>
 	</div>
 
-	<div id="feed">
-		Side Social Media Feed
-	</div>
 	<div id="maincontent">
 		<div class="text">
 			Kids First is as afterschool program serving Maplewood residents who are in kindergarten through 12th 
