@@ -9,7 +9,7 @@
 
 <body>
 	<?php
-		include 'header.html';
+		include 'header.php';
 		include 'mediafeed.php';
 	?>
 	
