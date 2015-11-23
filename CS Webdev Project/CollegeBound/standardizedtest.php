@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+<?php $folders = 1;?>
 <head>
 	<meta charset="utf-8">
 	<title>Kids First</title>

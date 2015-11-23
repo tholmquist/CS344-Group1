@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
-
+<?php $folders = 1;?>
 <head>
 	<meta charset="utf-8">
 	<title>Kids First</title>
-	<link href="style.css" type="text/css" rel="stylesheet">
+	<link href="../style.css" type="text/css" rel="stylesheet">
 </head>
 
 <body>
 	<?php
-		include 'header.php';
+		include '../header.php';
 	?>
 	<div id="sidenav">
 		Side Navigational Content
