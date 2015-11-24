@@ -20,12 +20,11 @@
 	<div id="maincontent">
 		<div class="text">
 			<h1>Welcome to the Kids First College Bound program!</h1>
-			<br>
-			<a href="choosingaschool.php">What's Next</a>
-		</div>
-
-		<div class="text">
-			Main Content is present
+			<p>The transition from high school is an exciting time, and there are many questions you have to ask yourself.</p>
+			<p>What do you want to do with your life?  What do you want to become?</p>
+			<p>If your goals for the future require a higher education, then it can be difficult to know where to begin.  We're here to help make the process understandable.</p>
+			<p>The path to higher education begins in high school.</p>
+			<a href="highschool.php">What's Next</a>
 		</div>
 
 	</div>

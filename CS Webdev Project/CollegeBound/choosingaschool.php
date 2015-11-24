@@ -24,14 +24,12 @@
 			<p>There are many options for a career</p>
 			<p>What do you want to do with your life?  What do you want to become?</p>
 			<br>
-			<p>If your goals for the future require a higher education, then it can be difficult to know where to begin.  We're here to help make the process understandable.</p>
-			<a href="choosingaschool.php">Follow Me!</a>
+			<p>Some take a two year degree or certificate program.  Many professions require a four-year degree or higher to achieve.</p>
+			<p>Finding the right fit isn't always easy, but <a href"http://www.topuniversities.com/student-info/choosing-university"> there are tools out there to helo.</a></p>
+			<p><a href="financialaid">Financial aid</a> is available in many forms to help you make it possible.</p>
+			
+			<a href="applying.php">How to apply</a>
 		</div>
-
-		<div class="text">
-			Main Content is present
-		</div>
-
 	</div>
 
 
