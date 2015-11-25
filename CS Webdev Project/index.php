@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿<?php $folders = 1;?>
+
+<!DOCTYPE html>
 <html>
 
 <head>

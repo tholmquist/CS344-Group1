@@ -1,3 +1,5 @@
+<?php $folders = 0;?>
+
 <!DOCTYPE html>
 <html>
 
