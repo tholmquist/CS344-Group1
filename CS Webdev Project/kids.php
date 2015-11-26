@@ -1,4 +1,4 @@
-<?php $folders = 1;?>
+<?php $folders = 0;?>
 
 <!DOCTYPE html>
 <html>
@@ -16,9 +16,15 @@
 	?>
 	
 	<div id="sidenav">
-		Side Navigational Content
+		Top
 		<br>
-		<a href="" title="">Quicklink</a>
+		Kids First Hours
+		<br>
+		Who works there?
+		<br>
+		What is there?
+		<br>
+		Rules
 		<br>
 	</div>
 

@@ -17,9 +17,7 @@
 	?>
 	
 	<div id="sidenav">
-		Side Navigational Content
-		<br>
-		<a href="" title="">Quicklink</a>
+		Images/Gallery
 		<br>
 	</div>
 

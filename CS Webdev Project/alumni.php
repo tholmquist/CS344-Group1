@@ -16,9 +16,11 @@
 	?>
 	
 	<div id="sidenav">
-		Side Navigational Content
+		Congrats
 		<br>
-		<a href="" title="">Quicklink</a>
+		Suggestions?
+		<br>
+		<a href="<?= $slashes ?>getInvolved.php" title="Volunteer">Volunteer</a>
 		<br>
 	</div>
 
