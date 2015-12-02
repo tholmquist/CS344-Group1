@@ -2,7 +2,7 @@
 background-color: yellow;
 }
 
-.heading {
+#mainnav{
 font-style: bold;
 font-size: 40pt;
 font-family: Tahoma;
@@ -14,17 +14,17 @@ margin: 0;
 background-color: blue;
 }
 
-.left_content{
+#sidenav{
 float: left;
 width: 25%;
 }
 
-.center_content{
+#maincontent{
 display: inline-block;
 width: 48%;
 }
 
-.right_content{
+#mediafeed{
 float: right;
 width: 25%;
 }
@@ -34,7 +34,6 @@ width: 80%;
 height: 300px;
 }
 
-.right_content img, .left_content img, .center_content img {
- 
+#sidenav img, #mediafeed, #maincontent img {
 width: 100%;
 }
