@@ -20,15 +20,28 @@
 		<br>
 		Suggestions?
 		<br>
+		Propogate!
+		<br>
 		<a href="<?= $slashes ?>getInvolved.php" title="Volunteer">Volunteer</a>
 		<br>
 	</div>
 
 	<div id="maincontent">
 		<div class="text">
+			<h1>So you graduated from Kids First?</h1>
+		</div>
+		
+		<div class="text">
+			Consider giving some feedback to the center. We value input from those
+			who have grown up and used our program to its fullest effect. 
 			
 		</div>
-
+		<div class="text">
+			The Center has all 
+			
+		</div>
+		
+		
 	</div>
 
 

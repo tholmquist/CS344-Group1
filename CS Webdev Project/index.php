@@ -22,6 +22,7 @@
 	</div>
 
 	<div id="maincontent">
+		<img src="Pictures/IMG_7210.jpg">
 		<div class="text">
 			Kids First is as afterschool program serving Maplewood residents who are in kindergarten through 12th 
 
@@ -43,10 +44,8 @@ Veterans Day (11/11), & Thanksgiving (11/25 & 11/26). Otherwise we are opened Mo
 
 2:30 – 6:30 p.m. 
 
-Notes: need dates for spring, and are they open in summer? And do they have an official mission 
-
-statement?
 		</div>
+		<img src="Pictures/IMG_7209.jpg">
 
 	</div>
 

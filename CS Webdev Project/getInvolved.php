@@ -25,29 +25,29 @@
 	</div>
 
 	<div id="maincontent">
-		<div class="text">
+		<div class="text" id="Time">
 			<h1>Kids First Accepts all sorts of donations!</h1>
+		</div>
+		
+		<div class="text" id="Time">
+		<h2>Donate Time</h2>
 			Dontate your time! Come and Volunteer for Kids First! Become a mentor
 			to the kids of the center.
 			<br>
 			Schedule a block of two hours to volunteer any day monday-thursday, 
 			between 2:30-6:30 PM.
 		</div>
-		<div class="text" id="Time">
-			<h1>Donate Time</h1>
-			Dontate your time, some spare cash, or some gently used items.
-		</div>
 		<div class="text" id="Money">
-			<h1>Donate Money</h1>
+			<h2>Donate Money</h2>
 			Kids First accepts monatery donations. Any amounts are acceptable.
-			Donations made on the WSU foundation page. LINK HERE
+			Donations made on the WSU foundation page. <a href="https://www.alumni.winona.edu/netcommunity/onlinegift">Link</a>
 		</div>
 		<div class="text" id="Items">
-			<h1>Donating Items</h1>
+			<h2>Donating Items</h2>
 			Kids first gets by on generous donations of everything from older 
 			computers to chairs, couches, and cabinets. Bring items for dropoff
 			at either the KidsFirst Center or for smaller items, the offices of 
-			Dr. Sighn.
+			Dr. Sighn. Email before bringing in items. MSinning@winona.edu
 		</div>
 	</div>
 
