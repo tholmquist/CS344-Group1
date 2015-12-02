@@ -1,40 +1,40 @@
-html{
-	background-image:url("Assets/KidsFirst_Theme.bmp");
-	background-repeat:repeat-x;
-	background-color:#3d7a50;
+#mainnav {
+background-color: yellow;
 }
 
-#mainnav{
-	font-size:510%;
-	margin-bottom:64px;
+.heading {
+font-style: bold;
+font-size: 40pt;
+font-family: Tahoma;
 }
 
-#sidenav{
-	background-color:red;
-	font-size:130%;
-	float:left;
-	width:25%;
+body {
+font-family: helvetica;
+margin: 0;
+background-color: blue;
 }
 
-#maincontent{
-	width:48%;
-	background-image:url("Assets/KidsFirstPattern.bmp");
-	background-repeat:repeat-y;
-	margin-left:25%;
-	margin-right:25%;
-	padding-left:4px;
-	padding-right:4px;
+.left_content{
+float: left;
+width: 25%;
 }
 
-#feed{
-	float:right;
-	width:25%;
-	background-color:#00FF33;
+.center_content{
+display: inline-block;
+width: 48%;
 }
-.text{
-	width:100%;
-	color:white;
+
+.right_content{
+float: right;
+width: 25%;
 }
-.pictext{
-	
+
+iframe{
+width: 80%;
+height: 300px;
+}
+
+.right_content img, .left_content img, .center_content img {
+ 
+width: 100%;
 }
