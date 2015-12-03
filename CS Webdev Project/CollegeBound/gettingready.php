@@ -10,13 +10,8 @@
 <body>
 	<?php
 		include '../header.php';
+		include 'sidenav.html'
 	?>
-	<div id="sidenav">
-		Side Navigational Content
-		<br>
-		<a href="" title="">Quicklink</a>
-		<br>
-	</div>
 	<div id="maincontent">
 		<div class="text">
 			<h1>Getting ready for college</h1>
