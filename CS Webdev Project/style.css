@@ -1,17 +1,54 @@
-#mainnav {
-background-color: yellow;
-}
-
 #mainnav{
 font-style: bold;
-font-size: 40pt;
+font-size: 60pt;
 font-family: Tahoma;
+color: #00fe2c;
+background-color: black;
+}
+
+h1{
+font-family: Tahoma;
+color: #00fe2c;
+}
+
+h2 {
+font-family: Tahoma;
+color: #00b2ff; }
+
+.house{
+border: 15px;
+border-style: solid;
+border-color: #00b2ff;
+}
+
+.kids{
+border: 15px;
+border-style: solid;
+border-color: #00b2ff;
+}
+
+.college{
+border: 15px;
+border-style: solid;
+border-color: #00b2ff;
+}
+
+.alumni{
+border: 15px;
+border-style: solid;
+border-color: #00b2ff;
+}
+
+.involved{
+border: 15px;
+border-style: solid;
+border-color: #00b2ff;
 }
 
 body {
 font-family: helvetica;
 margin: 0;
-background-color: blue;
+font-size: 15pt;
 }
 
 #sidenav{
@@ -34,6 +71,6 @@ width: 80%;
 height: 300px;
 }
 
-#sidenav img, #mediafeed, #maincontent img {
+#sidenav img, #mediafeed img, #maincontent img {
 width: 100%;
 }
