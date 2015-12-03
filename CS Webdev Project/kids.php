@@ -40,6 +40,9 @@
 			welcome to volunteer. For more information on volunteering go to the<a href="<?= $slashes ?>getInvolved.php" title="Volunteer">Volunteer</a> page.
 		</div>
 		<img src="Pictures/IMG_7196.jpg">
+		<div class="text" id="who">
+			The Kids First Center has many activities for kids to participate in. 
+		</div>
 	</div>
 
 

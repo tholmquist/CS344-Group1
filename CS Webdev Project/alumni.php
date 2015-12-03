@@ -33,11 +33,8 @@
 		
 		<div class="text">
 			Consider giving some feedback to the center. We value input from those
-			who have grown up and used our program to its fullest effect. 
-			
-		</div>
-		<div class="text">
-			The Center has all 
+			who have grown up and used our program to its fullest effect. If you live
+			in the area consider becoming a part of the program again as a mentor or as a donor.
 			
 		</div>
 		
