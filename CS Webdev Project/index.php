@@ -42,7 +42,7 @@ is Tuesday, September 1st – Thursday, December 3rd 2015. Kids First will be cl
 
 Veterans Day (11/11), & Thanksgiving (11/25 & 11/26). Otherwise we are opened Monday – Thursday, 
 
-2:30 – 6:30 p.m. 
+2:30 – 6:30 p.m.
 
 		</div>
 		<img src="Pictures/IMG_7209.jpg">
