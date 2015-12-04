@@ -9,7 +9,7 @@
 	<link href="style.css" type="text/css" rel="stylesheet">
 </head>
 
-<body>
+<body class="involvedLink">
 	<?php
 		include 'header.php';
 		include 'mediafeed.php';
@@ -47,7 +47,7 @@
 			Kids first gets by on generous donations of everything from older 
 			computers to chairs, couches, and cabinets. Bring items for dropoff
 			at either the KidsFirst Center or for smaller items, the offices of 
-			Dr. Sighn. Email before bringing in items. MSinning@winona.edu
+			Dr. Signning. Email before bringing in items. MSinning@winona.edu
 		</div>
 	</div>
 

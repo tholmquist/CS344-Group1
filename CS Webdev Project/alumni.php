@@ -9,7 +9,7 @@
 	<link href="style.css" type="text/css" rel="stylesheet">
 </head>
 
-<body>
+<body class="alumniLink">
 	<?php
 		include 'header.php';
 		include 'mediafeed.php';
