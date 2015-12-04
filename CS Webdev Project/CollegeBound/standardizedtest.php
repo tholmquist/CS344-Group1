@@ -7,7 +7,7 @@
 	<link href="../style.css" type="text/css" rel="stylesheet">
 </head>
 
-<body>
+<body class="collegeLink">
 	<?php
 	$folders = 1; 
 	include "../header.php"; 

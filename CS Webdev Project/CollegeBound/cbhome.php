@@ -7,7 +7,7 @@
 	<link href="../style.css" type="text/css" rel="stylesheet">
 </head>
 
-<body>
+<body class="collegeLink">
 	<?php
 		include '../header.php';
 		include 'sidenav.php';
