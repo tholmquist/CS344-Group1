@@ -15,11 +15,6 @@ h2 {
 font-family: Tahoma;
 color: #00b2ff; }
 
-h3{
-font-family: Tahoma;
-color: #00fe2c;
-}
-
 .house, .kids, .college, .alumni, .involved{
 border: 15px;
 border-style: solid;
@@ -51,7 +46,7 @@ text-decoration:none;
 }
 
 #maincontent a:visited{
-color: #00fe2c;
+color: #0084b4;
 text-decoration: none;
 }
 
@@ -74,6 +69,8 @@ font-size: 15pt;
 #sidenav{
 float: left;
 width: 25%;
+padding-left: 1%;
+padding-top:1%;
 }
 
 #maincontent{
@@ -93,14 +90,6 @@ height: 300px;
 
 #sidenav img, #mediafeed img, #maincontent img {
 width: 100%;
-}
-#SAT{
-float : right;
-margin-right: 15%;
-}
-#ACT{
-float : left;
-margin-left: 15%;
 }
 
 /*doesn't seem to be needed right now*/
