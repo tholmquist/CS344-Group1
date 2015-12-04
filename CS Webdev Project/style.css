@@ -2,8 +2,8 @@
 font-style: bold;
 font-size: 60pt;
 font-family: Tahoma;
-color: #00fe2c;
-background-color: black;
+color: #2A3132;
+background-color: #C4DFE6;
 }
 
 h1{
@@ -23,12 +23,12 @@ color: #00fe2c;
 .house, .kids, .college, .alumni, .involved{
 border: 15px;
 border-style: solid;
-border-color: #00b2ff;
+border-color: #6FB98F;
 }
 
 .house:hover, .kids:hover, .college:hover, .alumni:hover, .involved:hover{
 border-style: double;
-border-color: #00fe2c;
+border-color: #375E97;
 }
 
 /*.houseLink  a.houseLink, .kidsLink a.kidsLink, .collegeLink a.collegeLink, .alumniLink a.alumniLink, .involvedLink a.involvedLink {
@@ -98,6 +98,16 @@ width: 100%;
 float : right;
 margin-right: 15%;
 }
+#ACT{
+float : left;
+margin-left: 15%;
+}
+
+#SAT{
+float : right;
+margin-right: 15%;
+}
+
 #ACT{
 float : left;
 margin-left: 15%;
