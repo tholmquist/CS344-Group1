@@ -10,7 +10,8 @@
 <body>
 	<?php
 		include '../header.php';
-		include 'sidenav.html'
+		include 'sidenav.php';
+		include '../mediafeed.php';
 	?>
 	<div id="maincontent">
 		<div class="text">

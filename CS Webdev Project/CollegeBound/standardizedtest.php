@@ -11,13 +11,8 @@
 	<?php
 	$folders = 1; 
 	include "../header.php"; 
+	include "sidenav.php";
 	?>
-	<div id="sidenav">
-		Side Navigational Content
-		<br>
-		<a href="" title="">Quicklink</a>
-		<br>
-	</div>
 	<div id="maincontent">
 		<div class="text">
 			<h1>Standardized Tests!</h1>
