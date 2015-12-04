@@ -10,7 +10,7 @@
 <body class="collegeLink">
 	<?php
 		include '../header.php';
-		include 'sidenav.php'
+		include 'sidenav.html'
 	?>
 	<div id="maincontent">
 		<div class="text">

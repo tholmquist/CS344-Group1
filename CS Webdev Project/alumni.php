@@ -12,7 +12,6 @@
 <body class="alumniLink">
 	<?php
 		include 'header.php';
-		include 'mediafeed.php';
 	?>
 	
 	<div id="sidenav">
