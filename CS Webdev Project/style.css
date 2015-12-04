@@ -15,34 +15,49 @@ h2 {
 font-family: Tahoma;
 color: #00b2ff; }
 
-.house{
+.house, .kids, .college, .alumni, .involved{
 border: 15px;
 border-style: solid;
 border-color: #00b2ff;
 }
 
-.kids{
-border: 15px;
-border-style: solid;
-border-color: #00b2ff;
+.house:hover, .kids:hover, .college:hover, .alumni:hover, .involved:hover{
+border-style: double;
+border-color: #00fe2c;
 }
 
-.college{
+/*.houseLink  a.houseLink, .kidsLink a.kidsLink, .collegeLink a.collegeLink, .alumniLink a.alumniLink, .involvedLink a.involvedLink {
+background-color: yellow;
+}*/
+
+.houseLink a.houseLink .house, .kidsLink a.kidsLink .kids, .collegeLink a.collegeLink .college, .alumniLink a.alumniLink .alumni, .involvedLink a.involvedLink .involved{
 border: 15px;
-border-style: solid;
-border-color: #00b2ff;
+border-style: double;
+border-color: #00fe2c;
+} /*if body tag has a class attribute of houseLink, kidsLink, etc. the nav link will be highlighted to indicate where you are in the site*/
+
+/*.houseLink  a.houseLink:hover, .kidsLink a.kindsLink:hover, .collegeLink a.collegeLink:hover, .alumniLink a.alumniLink:hover, .involvedLink a.involvedLink:hover {
+background: none;
+} */
+
+#maincontent a:link{
+color: #00b2ff;
+text-decoration:none;
 }
 
-.alumni{
-border: 15px;
-border-style: solid;
-border-color: #00b2ff;
+#maincontent a:visited{
+color: #00fe2c;
+text-decoration: none;
 }
 
-.involved{
-border: 15px;
-border-style: solid;
-border-color: #00b2ff;
+.twitter-timeline{
+float: right;
+width: 100% !important;
+}
+
+#mediafeed{
+float: right;
+width: 25% !important;
 }
 
 body {
@@ -67,10 +82,21 @@ width: 25%;
 }
 
 iframe{
-width: 80%;
+width: 90%;
 height: 300px;
 }
 
 #sidenav img, #mediafeed img, #maincontent img {
 width: 100%;
+}
+
+/*doesn't seem to be needed right now*/
+@media only screen and (max-width: 850px){
+
+}
+
+@media only screen and (max-width: 300px){ /*at a certain screen size there's not much point in displaying the map*/
+iframe{
+display: none;
+}
 }
