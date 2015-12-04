@@ -24,6 +24,7 @@ color: #00fe2c;
 border: 15px;
 border-style: solid;
 border-color: #6FB98F;
+border-radius: 25%;
 }
 
 .house:hover, .kids:hover, .college:hover, .alumni:hover, .involved:hover{
