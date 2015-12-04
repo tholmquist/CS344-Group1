@@ -45,7 +45,7 @@ border-color: #00fe2c;
 background: none;
 } */
 
-#maincontent a:link{
+#maincontent a:link, #sidenav a:link{
 color: #00b2ff;
 text-decoration:none;
 }
