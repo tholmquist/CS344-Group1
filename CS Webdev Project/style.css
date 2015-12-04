@@ -15,6 +15,11 @@ h2 {
 font-family: Tahoma;
 color: #00b2ff; }
 
+h3{
+font-family: Tahoma;
+color: #00fe2c;
+}
+
 .house, .kids, .college, .alumni, .involved{
 border: 15px;
 border-style: solid;
@@ -88,6 +93,14 @@ height: 300px;
 
 #sidenav img, #mediafeed img, #maincontent img {
 width: 100%;
+}
+#SAT{
+float : right;
+margin-right: 15%;
+}
+#ACT{
+float : left;
+margin-left: 15%;
 }
 
 /*doesn't seem to be needed right now*/
