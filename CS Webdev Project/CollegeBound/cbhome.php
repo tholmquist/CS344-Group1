@@ -11,7 +11,6 @@
 	<?php
 		include '../header.php';
 		include 'sidenav.php';
-		include '../mediafeed.php';
 	?>
 	<div id="maincontent">
 		<div class="text">
