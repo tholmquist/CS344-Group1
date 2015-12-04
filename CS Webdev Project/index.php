@@ -24,6 +24,8 @@
 	</div>
 
 	<div id="maincontent">
+			<img src="Pictures/IMG_7210.jpg" alt="kids first" title="kids first">
+	
 			<p>Kids First is as after school program serving Maplewood residents who are in kindergarten through 12th 
 			grade. It is staffed by WSU student volunteers and provides assistance with homework, tutoring, and 
 			recreational activities. We also provide snacks. Kids First has been helping the community for the last 8 
@@ -43,11 +45,6 @@
 			1756 Kraemer Dr. <br>
 			Winona, MN 55987<p>
 	</div>
-
-	<div id="mediafeed">
-		<img src="Pictures/IMG_7210.jpg" alt="kids first" title="kids first">
-	</div>
-
 
 </body>
 
